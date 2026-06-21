@@ -28,7 +28,7 @@ spec:
       containers:
         - name: user-service
 
-          image: harshart993/user-service:v2
+          image: harshart993/user-service:v1
           imagePullPolicy: Always
 
           ports:
