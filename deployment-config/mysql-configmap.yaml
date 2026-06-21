@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+
+metadata:
+  name: app-config
+  namespace: homeassignment
+
+data:
+  DB_HOST: mysql-service
+  DB_PORT: "3306"
+  DB_NAME: user_db
+  DB_USER: root
