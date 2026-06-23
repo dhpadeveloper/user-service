@@ -1,4 +1,6 @@
 # user-service
+
+```text
 user-service/
 │
 ├── app/
@@ -20,3 +22,4 @@ user-service/
 ├── Dockerfile
 │
 └── README.md
+```
